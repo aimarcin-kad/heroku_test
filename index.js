@@ -133,7 +133,7 @@ const botCore = {
     staticText: {
         startContent: "Hey, I am an AI bot. You can ask with me directly. If you want to use more, please join the chat group.",
         longContent: "Long reply.",
-        waitText: "Please wait.",
+        waitText: "Please wait. test",
         welcomeText: "Welcome to the SolanAI!",
         // welcomeText: "Welcome to the SolanAI! You can use ai with these commands.\n🔽🔽\n\n/chat /image /portrait /realistic /music /video /gif /3d",
         errorText: `Error, please try again.`,
